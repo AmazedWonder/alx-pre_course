@@ -1,5 +1,2 @@
 git fetch origin
 git pull origin
-ls
-touch up_to_date
-vim up_to_date
